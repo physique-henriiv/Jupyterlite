@@ -5,7 +5,6 @@ channels:
 dependencies:
   - ipycanvas
   - matplotlib
-  - numpy=1.17.3
   - scipy
   - ipympl
   - lmfit
