@@ -6,7 +6,8 @@ dependencies:
   - ipycanvas
   - matplotlib
   - numpy
-  - scipy=1.9.3 =conda-forge
+  - scipy>=1.9.3
   - ipympl
   - lmfit
   - regex
+  - serial
