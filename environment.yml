@@ -6,7 +6,8 @@ dependencies:
   - ipycanvas
   - matplotlib
   - numpy
-  - scipy=1.11.2
+  - scipy
   - ipympl
   - lmfit
   - regex
+  - pyserial
