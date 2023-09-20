@@ -6,7 +6,7 @@ dependencies:
   - ipycanvas
   - matplotlib
   - numpy
-  - scipy
+  - scipy==1.11.2
   - ipympl
   - lmfit
   - regex
