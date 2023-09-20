@@ -1,6 +1,6 @@
 name: xeus-python-kernel
 channels:
-  - conda-forge  
+  - https://repo.mamba.pm/emscripten-forge
 dependencies:
   - ipycanvas
   - matplotlib
