@@ -5,7 +5,6 @@ channels:
 dependencies:
   - ipycanvas
   - matplotlib
-  - numpy
   - ipympl
   - lmfit
   - regex
