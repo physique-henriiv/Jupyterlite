@@ -11,4 +11,3 @@ dependencies:
   - lmfit
   - regex
   - pyserial
-  - telemetrix
